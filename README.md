@@ -1,4 +1,13 @@
-## Hi there 👋
+# 💫 About Me:
+Product Management aspirant with real-world exposure to customer experience, product thinking, and business-driven decision making.<br><br><br>👋 About Me<br><br>🎯 Who I am<br>A BCA graduate transitioning into Product Management, with hands-on experience in customer support at _VOIS and a strong interest in building user-centric, business-driven products.<br><br>🔭 What I’m currently working on<br>Developing product thinking through a Product Management Certification from BITSoM, focusing on problem discovery, user journeys, and translating customer pain points into product opportunities.<br><br>🌱 What I’m learning<br>Product strategy, Agile & Scrum, PRDs, stakeholder communication, user research, metrics, and data-backed decision making.<br><br>👯 Open to collaborating on<br>Product case studies, product discovery exercises, user research, requirement analysis, and early-stage product concepts.<br><br>🤝 Looking for guidance in<br>Breaking into Product / Business Analyst roles and building practical, outcome-driven product portfolios.<br><br>💬 Ask me about<br>Customer experience, voice-of-customer insights, requirement prioritization, product workflows, and transitioning from support roles to product roles.<br><br>⚡ Fun fact<br>I enjoy solving user problems more than writing lines of code — and that’s what pulled me into Product Management 🚀
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prerna-gaikwad-6245a422b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prernagaikwad09087@gmail.com) 
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **GPrerna09/GPrerna09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
