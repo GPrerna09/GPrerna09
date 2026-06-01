@@ -1,5 +1,16 @@
 # 💫 Hi, I’m Prerna Gaikwad
-Product Management aspirant with real-world exposure to customer experience, product thinking, and business-driven decision making.<br><br><br>🎯 A BCA graduate transitioning into Product Management, with hands-on experience in customer support at _VOIS and a strong interest in building user-centric, business-driven products.<br><br>🔭 What I’m currently working on<br>Developing product thinking through a Product Management Certification from BITSoM, focusing on problem discovery, user journeys, and translating customer pain points into product opportunities.<br><br>🌱 What I’m learning<br>Product strategy, Agile & Scrum, PRDs, stakeholder communication, user research, metrics, and data-backed decision making.<br><br>👯 Open to collaborating on<br>Product case studies, product discovery exercises, user research, requirement analysis, and early-stage product concepts.<br><br>🤝 Looking for guidance in<br>Breaking into Product / Business Analyst roles and building practical, outcome-driven product portfolios.<br><br>💬 Ask me about<br>Customer experience, voice-of-customer insights, requirement prioritization, product workflows, and transitioning from support roles to product roles.<br><br>⚡ Fun fact<br>I enjoy solving user problems more than writing lines of code — and that’s what pulled me into Product Management 🚀
+
+Product Management professional passionate about building user-centric products.
+
+🎓 BCA Graduate | Product Management with Gen & Agentic AI (BITSoM)
+
+💡 Interests: User Research, Product Strategy, Prototype
+
+🛠 Skills: PRDs • Roadmapping • Agile • SQL • Jira • Prompt Engineering • n8n • Stakeholder Management
+
+📌 Projects: Uber Metro Integration Case Study | Stock Analysis Agent
+
+<br><br>⚡ Fun fact<br>I enjoy solving user problems more than writing lines of code — and that’s what pulled me into Product Management 🚀
 
 
 ## 🌐 Socials:
